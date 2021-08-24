@@ -13,6 +13,8 @@ git clone https://github.com/victoriadrake/vsc-starter-snippets.git
 cp vsc-starter-snippets/*.json /home/<username>/.config/Code/User/snippets
 ```
 
+If command line installation doesn't work, you can [create a New Global Snippets file](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets) in VSC and copy and paste the contents of a file from this repository.
+
 ## What's in the Box
 
 ### Starter HTML Kit
